@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Blog Timer</string>
+
+    <string name="timer_start">Start</string>
+</resources>
